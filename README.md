@@ -8,7 +8,7 @@ Siéntete libre de explorar los contenidos, iterar, mejorar y generar nuevas ide
 
 <img width="600" alt="Screenshot 2025-01-22 at 11 01 01 AM" src="https://github.com/user-attachments/assets/6a561909-e3b1-4436-9bb7-b5617fe941a0" />
 
-# Navega la galeria de proyectos
+# Navega a la galeria de proyectos
 
 Para navegar y servir localmente la galeria de proyectos en tu computadora puedes seguir las siguientes instrucciones.
 Descarga el repo, moverse al directorio 'INTRO' y servir la coleccion con un servidor web. A continuacion te facilito los comandos necesarios para estos pasos.
@@ -19,5 +19,5 @@ cd INTRO
 python3 -m http.server
 ```
 
-Finalmente, para visualizar el directorio de proyectos entra por el navegador de tu preferencia a:
+Finalmente, para visualizar el directorio de proyectos entra por el navegador de tu preferencia a :
 ```http://localhost:8000/```
